@@ -18,3 +18,12 @@ sweep funds:
 ```
 node transfer.js
 ```
+
+---------------------------------------------------------------------------------------------------
+
+parsing pdf to private keys:
+![image](https://user-images.githubusercontent.com/2653167/64444058-8a8ee780-d090-11e9-9dc4-3e620bcdc31f.png)
+
+sweeping from all private keys to a single burner wallet:
+![image](https://user-images.githubusercontent.com/2653167/64444017-70eda000-d090-11e9-81dd-444b69e9f88c.png)
+
