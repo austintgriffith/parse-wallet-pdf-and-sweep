@@ -1,0 +1,29 @@
+{
+  "name": "parse-wallet-pdf-and-sweep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/austintgriffith/parse-wallet-pdf-and-sweep.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/austintgriffith/parse-wallet-pdf-and-sweep/issues"
+  },
+  "homepage": "https://github.com/austintgriffith/parse-wallet-pdf-and-sweep#readme",
+  "dependencies": {
+    "base64url": "^3.0.1",
+    "ethereumjs-util": "^6.1.0",
+    "fs": "0.0.1-security",
+    "get-image-data": "^4.1.0",
+    "jsqr": "^1.2.0",
+    "pdf-image": "^2.0.0",
+    "pdf-parse": "^1.1.1",
+    "web3": "^1.2.1"
+  }
+}
