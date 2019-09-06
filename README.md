@@ -1,4 +1,4 @@
-If you generate a pdf full of private key paper wallets and you need to recover all the funds from them without manually scanning and sending from each.
+If you generate a pdf full of private key paper wallets and you need to recover all the funds from them without manually scanning and sending from each. (tweet)[https://twitter.com/austingriffith/status/1170012651415453696?s=20] (context)[https://twitter.com/TrustlessState/status/1169650643948015616?s=20]
 
 install packages
 ```
